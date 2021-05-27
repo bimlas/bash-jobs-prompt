@@ -4,7 +4,7 @@ If you frequently use the `Ctrl + Z` shortcut in Bash or Zsh shells to send a
 process to the background, it can be useful to see the list of jobs
 continuously without having to query it with the `jobs` command.
 
-![screencast](https://youtu.be/EtlsE53qG9U)
+[See the screencast on YouTube](https://youtu.be/EtlsE53qG9U)
 
 ## Installation
 
