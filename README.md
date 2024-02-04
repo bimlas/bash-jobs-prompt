@@ -14,7 +14,7 @@ Download the `bin/jobs_prompt` script and place it somewhere on your PATH or use
 Get the source code, report bugs, open pull requests, or just star because
 you didn't know that you need it:
 
-* https://github.com/bimlas/bash-jobs-prompt (official repository)
+* https://github.com/bimlas/bash-jobs-prompt
 
 ## Usage
 
